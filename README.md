@@ -1,11 +1,6 @@
 # Hi there 👋, I'm Mohamed Amine Mezzat
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)](https://github.com/mezz01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mezz01)
-
 ## 📊 My GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mezz01&show_icons=true&theme=radical)](https://github.com/mezz01)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mezz01&theme=dark)](https://github.com/mezz01)
 
