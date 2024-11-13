@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Mohamed Amine Mezzat
-
-## 📊 My GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mezz01&theme=dark)](https://github.com/mezz01)
+I am a fullstack creative web developer.
 
 ## 🛠️ Tech Stack
 
