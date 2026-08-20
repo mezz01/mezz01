@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Amine
-## I am a Front-end and Design Engineer
-## Front-end Performance and Architecture
+## I am a product and ai integration Engineer
+## Focused on Performance and Architecture
 ## Animation and User Experience enthusiast
-## React, Nextjs, Gsap, Figma ... 
